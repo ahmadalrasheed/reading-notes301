@@ -8,7 +8,7 @@
 | page        | link                   |
 | ----------- | -----------            |
 | class1      | [pagelink1](read1.md)  |
-| class2      | [pagelink2]()          |
+| class2      | [pagelink2](read2.md)  |
 | class3      | [pagelink3]()  |
 | class4      | [pagelink4]()  |
 | class5      | [pagelink5]()  |
