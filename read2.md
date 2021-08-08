@@ -39,5 +39,5 @@ Render is the only required method in a class component. It will examine this.pr
 
 ***Bootstrap at its core Built with compatibility in mind, we embrace our bootstrap core and strive to be compatible with the world's largest UI ecosystem.***
 
-***By relying entirely on the Bootstrap stylesheet, React-Bootstrap just works with the thousands of Bootstrap themes you already love.***
+***By relying entirely on the Bootstrap stylesheet, `React-Bootstrap` just works with the thousands of Bootstrap themes you already love.***
 
