@@ -10,7 +10,7 @@
 | class1      | [pagelink1](read1.md)  |
 | class2      | [pagelink2](read2.md)  |
 | class3      | [pagelink3](read3.md)  |
-| class4      | [pagelink4]()  |
+| class4      | [pagelink4](read4.md)  |
 | class5      | [pagelink5]()  |
 | class6      | [pagelink6]()  |
 | class7      | [pagelink7]()  |
